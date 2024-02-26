@@ -1,4 +1,4 @@
-from django.conf.urls import url
+from django.urls import path, include
 
 from .views import (
     StatusAPIView, 
@@ -6,6 +6,6 @@ from .views import (
     )
 
 urlpatterns = [
-    url(r'^$', StatusAPIView.as_view(), name='list'),
-    url(r'^(?P<id>\d+)/$', StatusAPIDetailView.as_view(), name='detail'),
+    path('', StatusAPIView.as_view(), name='list'),
+    path('(?P<id>\d+)/', StatusAPIDetailView.as_view(), name='detail'),
 ]

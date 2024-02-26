@@ -19,7 +19,7 @@ class StatusManager(models.Manager):
 
 
 class Status(models.Model): # fb status, instagram post, tweet, linkedin post
-    user        = models.ForeignKey(settings.AUTH_USER_MODEL) # User instance .save()
+    user        = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()
     content     = models.TextField(null=True, blank=True)
     image       = models.ImageField(upload_to=upload_status_image, null=True, blank=True)  # Django Storages --> AWS S3
     updated     = models.DateTimeField(auto_now=True)

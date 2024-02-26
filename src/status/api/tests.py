@@ -10,7 +10,8 @@ from rest_framework.test import APITestCase
 from django.contrib.auth import get_user_model
 from django.conf import settings
 
-from rest_framework_jwt.settings import api_settings
+# from rest_framework_jwt.settings import api_settings
+from rest_framework_simplejwt.settings import api_settings
 
 from status.models import Status
 

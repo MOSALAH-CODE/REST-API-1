@@ -2,9 +2,9 @@ import datetime
 from django.conf import settings
 from django.utils import timezone
 
-from rest_framework_jwt.settings import api_settings
+from rest_framework_simplejwt.settings import api_settings
 
-expire_delta             = api_settings.JWT_REFRESH_EXPIRATION_DELTA
+expire_delta             = api_settings.SLIDING_TOKEN_REFRESH_LIFETIME
 
 
 def jwt_response_payload_handler(token, user=None, request=None):
