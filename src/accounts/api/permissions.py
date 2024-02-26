@@ -1,4 +1,6 @@
 from rest_framework import permissions
+from rest_framework_simplejwt.tokens import RefreshToken
+
 
 
 class BlacklistPermission(permissions.BasePermission):
@@ -8,8 +10,8 @@ class BlacklistPermission(permissions.BasePermission):
 
     def has_permission(self, request, view):
         ip_addr = request.META['REMOTE_ADDR']
-        blacklisted = Blacklist.objects.filter(ip_addr=ip_addr).exists() # true / false
-        return not blacklisted
+        # blacklisted = Blacklist.objects.filter(ip_addr=ip_addr).exists() # true / false
+        return True
 
 
 class AnonPermissionOnly(permissions.BasePermission):
@@ -19,7 +21,7 @@ class AnonPermissionOnly(permissions.BasePermission):
     """
 
     def has_permission(self, request, view):
-        return not request.user.is_authenticated() # request.user.is_authenticated
+        return not request.user.is_authenticated # request.user.is_authenticated
 
 
 class IsOwnerOrReadOnly(permissions.BasePermission):

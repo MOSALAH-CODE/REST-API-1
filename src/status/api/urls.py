@@ -5,7 +5,10 @@ from .views import (
     StatusAPIDetailView,
     )
 
+app_name = 'status'  # Define the app_name attribute
+
+
 urlpatterns = [
     path('', StatusAPIView.as_view(), name='list'),
-    path('(?P<id>\d+)/', StatusAPIDetailView.as_view(), name='detail'),
+    path('<id>/', StatusAPIDetailView.as_view(), name='detail'),
 ]

@@ -1,15 +1,13 @@
-import datetime
-from django.conf import settings
+from datetime import timedelta
 from django.utils import timezone
 
 from rest_framework_simplejwt.settings import api_settings
-
-expire_delta             = api_settings.SLIDING_TOKEN_REFRESH_LIFETIME
+from rest_framework_simplejwt.tokens import RefreshToken
 
 
 def jwt_response_payload_handler(token, user=None, request=None):
     return {
-        'token': token,
+        'token': str(token.access_token),
         'user': user.username,
-        'expires': timezone.now() + expire_delta - datetime.timedelta(seconds=200)
+        'expires': timezone.now() + timedelta(seconds=api_settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'])
     }

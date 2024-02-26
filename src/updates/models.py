@@ -33,6 +33,7 @@ class UpdateManager(models.Manager):
 
 
 class Update(models.Model):
+    id              = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') 
     user            = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()
     content         = models.TextField(blank=True, null=True)
     image           = models.ImageField(upload_to=upload_update_image, blank=True, null=True)

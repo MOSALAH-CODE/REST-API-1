@@ -7,5 +7,5 @@ from .views import (
 
 urlpatterns = [
     path('', UpdateModelListAPIView.as_view()), # api/updates/ - List/Create
-    path('(?P<id>\d+)/', UpdateModelDetailAPIView.as_view()),
+    path('<id>/', UpdateModelDetailAPIView.as_view()),
 ]
