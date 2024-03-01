@@ -52,7 +52,7 @@ class UserAPITestCase(APITestCase):
         }
         response = self.client.post(url, data, format='json')
         self.assertEqual(response.status_code, status.HTTP_200_OK) # 400
-        token = response.data.get("token", 0)
+        token = response.data.get("access", 0)
         token_len = 0
         if token != 0:
             token_len = len(token)
@@ -82,7 +82,7 @@ class UserAPITestCase(APITestCase):
         }
         response = self.client.post(url, data, format='json')
         self.assertEqual(response.status_code, status.HTTP_200_OK) # 400
-        token = response.data.get("token", None)
+        token = response.data.get("access", None)
         self.client.credentials(HTTP_AUTHORIZATION='JWT ' + token)
         response2 = self.client.post(url, data, format='json')
         self.assertEqual(response2.status_code, status.HTTP_403_FORBIDDEN)
@@ -96,7 +96,7 @@ class UserAPITestCase(APITestCase):
         }
         response = self.client.post(url, data, format='json')
         self.assertEqual(response.status_code, status.HTTP_200_OK) # 400
-        token = response.data.get("token", None)
+        token = response.data.get("access", None)
         self.client.credentials(HTTP_AUTHORIZATION='JWT ' + token)
 
         url2 = api_reverse('api-auth:register')

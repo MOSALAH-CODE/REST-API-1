@@ -28,10 +28,18 @@ class AuthAPIView(APIView):
 
         if user:
             refresh = RefreshToken.for_user(user)
-            return Response({
+            response_data = {
                 'refresh': str(refresh),
                 'access': str(refresh.access_token),
-            })
+            }
+            response = Response(response_data)
+            # Set the access token in the authorization header
+            response['Authorization'] = f'JWT {str(refresh.access_token)}'
+            return response
+            # return Response({
+            #     'refresh': str(refresh),
+            #     'access': str(refresh.access_token),
+            # })
 
         return Response({"detail": "Invalid credentials"}, status=401)
 

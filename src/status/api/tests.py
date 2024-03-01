@@ -9,14 +9,15 @@ from rest_framework.reverse import reverse as api_reverse
 from rest_framework.test import APITestCase
 from django.contrib.auth import get_user_model
 from django.conf import settings
+from rest_framework_simplejwt.tokens import RefreshToken
 
 # from rest_framework_jwt.settings import api_settings
-from rest_framework_simplejwt.settings import api_settings
+# from rest_framework_simplejwt.settings import api_settings
 
 from status.models import Status
 
-jwt_payload_handler             = api_settings.JWT_PAYLOAD_HANDLER
-jwt_encode_handler              = api_settings.JWT_ENCODE_HANDLER
+# jwt_payload_handler             = api_settings.JWT_PAYLOAD_HANDLER
+# jwt_encode_handler              = api_settings.JWT_ENCODE_HANDLER
 
 User = get_user_model()
 
@@ -39,7 +40,7 @@ class StatusAPITestCase(APITestCase):
             'password': 'yeahhhcfe',
         }
         auth_response = self.client.post(auth_url, auth_data, format='json')
-        token = auth_response.data.get("token", None)
+        token = auth_response.data.get("access", None)
         if token is not None:
             self.client.credentials(HTTP_AUTHORIZATION='JWT ' + token)
 
@@ -71,7 +72,7 @@ class StatusAPITestCase(APITestCase):
         # (w, h) = (800, 1280)
         # (255, 255, 255)
         image_item  = Image.new('RGB', (800, 1280), (0, 124, 174))
-        tmp_file    = tempfile.NamedTemporaryFile(suffix='.jpg')
+        tmp_file = tempfile.NamedTemporaryFile(suffix='.jpg', delete=False)
         image_item.save(tmp_file, format='JPEG')
         with open(tmp_file.name, 'rb') as file_obj:
             data = {
@@ -93,11 +94,11 @@ class StatusAPITestCase(APITestCase):
         # (w, h) = (800, 1280)
         # (255, 255, 255)
         image_item  = Image.new('RGB', (800, 1280), (0, 124, 174))
-        tmp_file    = tempfile.NamedTemporaryFile(suffix='.jpg')
+        tmp_file    = tempfile.NamedTemporaryFile(suffix='.jpg', delete=False)
         image_item.save(tmp_file, format='JPEG')
         with open(tmp_file.name, 'rb') as file_obj:
             data = {
-                'content': None,
+                'content': 'None',
                 'image': file_obj
             }
             response = self.client.post(url, data, format='multipart')
@@ -170,9 +171,12 @@ class StatusAPITestCase(APITestCase):
         data            = self.create_item()
         data_id         = data.get("id")
         user            = User.objects.create(username='testjmitch')
-        payload         = jwt_payload_handler(user)
-        token           = jwt_encode_handler(payload)
-        self.client.credentials(HTTP_AUTHORIZATION='JWT ' + token)
+        refresh = RefreshToken.for_user(user)
+
+        # payload         = jwt_payload_handler(user)
+        # token           = jwt_encode_handler(payload)
+        
+        self.client.credentials(HTTP_AUTHORIZATION='JWT ' +  str(refresh.access_token))
         rud_url         = api_reverse('api-status:detail', kwargs={"id": data_id})
         rud_data        = {
                             'content': "smashing"

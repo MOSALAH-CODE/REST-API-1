@@ -1,0 +1,2438 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "pagination",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "pagination",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "mixins",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "rest_framework.reverse",
+        "description": "rest_framework.reverse",
+        "isExtraImport": true,
+        "detail": "rest_framework.reverse",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "rest_framework.reverse",
+        "description": "rest_framework.reverse",
+        "isExtraImport": true,
+        "detail": "rest_framework.reverse",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "rest_framework.reverse",
+        "description": "rest_framework.reverse",
+        "isExtraImport": true,
+        "detail": "rest_framework.reverse",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "rest_framework.reverse",
+        "description": "rest_framework.reverse",
+        "isExtraImport": true,
+        "detail": "rest_framework.reverse",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "rest_framework.reverse",
+        "description": "rest_framework.reverse",
+        "isExtraImport": true,
+        "detail": "rest_framework.reverse",
+        "documentation": {}
+    },
+    {
+        "label": "StatusInlineUserSerializer",
+        "importPath": "status.api.serializers",
+        "description": "status.api.serializers",
+        "isExtraImport": true,
+        "detail": "status.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StatusInlineUserSerializer",
+        "importPath": "status.api.serializers",
+        "description": "status.api.serializers",
+        "isExtraImport": true,
+        "detail": "status.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StatusSerializer",
+        "importPath": "status.api.serializers",
+        "description": "status.api.serializers",
+        "isExtraImport": true,
+        "detail": "status.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AnonPermissionOnly",
+        "importPath": "accounts.api.permissions",
+        "description": "accounts.api.permissions",
+        "isExtraImport": true,
+        "detail": "accounts.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwnerOrReadOnly",
+        "importPath": "accounts.api.permissions",
+        "description": "accounts.api.permissions",
+        "isExtraImport": true,
+        "detail": "accounts.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "StatusAPIView",
+        "importPath": "status.api.views",
+        "description": "status.api.views",
+        "isExtraImport": true,
+        "detail": "status.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "status.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "status.models",
+        "description": "status.models",
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "status.models",
+        "description": "status.models",
+        "isExtraImport": true,
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "status.models",
+        "description": "status.models",
+        "isExtraImport": true,
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "status.models",
+        "description": "status.models",
+        "isExtraImport": true,
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "status.models",
+        "description": "status.models",
+        "isExtraImport": true,
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "status.models",
+        "description": "status.models",
+        "isExtraImport": true,
+        "detail": "status.models",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairSerializer",
+        "importPath": "rest_framework_simplejwt.serializers",
+        "description": "rest_framework_simplejwt.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairSerializer",
+        "importPath": "rest_framework_simplejwt.serializers",
+        "description": "rest_framework_simplejwt.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenBlacklistView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "api_settings",
+        "importPath": "rest_framework_simplejwt.settings",
+        "description": "rest_framework_simplejwt.settings",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "importPath": "cfeapi.settings",
+        "description": "cfeapi.settings",
+        "isExtraImport": true,
+        "detail": "cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "cfeapi.restconf.main",
+        "description": "cfeapi.restconf.main",
+        "isExtraImport": true,
+        "detail": "cfeapi.restconf.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "UserPublicSerializer",
+        "importPath": "accounts.api.serializers",
+        "description": "accounts.api.serializers",
+        "isExtraImport": true,
+        "detail": "accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "django.utils.six",
+        "description": "django.utils.six",
+        "isExtraImport": true,
+        "detail": "django.utils.six",
+        "documentation": {}
+    },
+    {
+        "label": "JSONRenderer",
+        "importPath": "rest_framework.renderers",
+        "description": "rest_framework.renderers",
+        "isExtraImport": true,
+        "detail": "rest_framework.renderers",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "SessionAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseMixin",
+        "importPath": "cfeapi.mixins",
+        "description": "cfeapi.mixins",
+        "isExtraImport": true,
+        "detail": "cfeapi.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponseMixin",
+        "importPath": "cfeapi.mixins",
+        "description": "cfeapi.mixins",
+        "isExtraImport": true,
+        "detail": "cfeapi.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateModelForm",
+        "importPath": "updates.forms",
+        "description": "updates.forms",
+        "isExtraImport": true,
+        "detail": "updates.forms",
+        "documentation": {}
+    },
+    {
+        "label": "updates.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "updates.models",
+        "description": "updates.models",
+        "detail": "updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "updates.models",
+        "description": "updates.models",
+        "isExtraImport": true,
+        "detail": "updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "serialize",
+        "importPath": "django.core.serializers",
+        "description": "django.core.serializers",
+        "isExtraImport": true,
+        "detail": "django.core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "serialize",
+        "importPath": "django.core.serializers",
+        "description": "django.core.serializers",
+        "isExtraImport": true,
+        "detail": "django.core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "git",
+        "description": "git",
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "get_list",
+        "kind": 2,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "def get_list(id=None): #--> Lists all this out\n    data = json.dumps({})\n    if id is not None:\n        data = json.dumps({\"id\": id})\n    r = requests.get(BASE_URL + ENDPOINT, data=data)\n    print(r.status_code)\n    status_code = r.status_code\n    if status_code != 200: # not found\n        print('probably not good sign?')\n    data = r.json()",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "create_update",
+        "kind": 2,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "def create_update():\n    new_data = {\n        'user': 1,\n        \"content\": \"Another more cool content\"  \n    }\n    r = requests.post(BASE_URL + ENDPOINT, data=json.dumps(new_data))\n    print(r.headers)\n    print(r.status_code)\n    if r.status_code == requests.codes.ok:\n        #print(r.json())",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "do_obj_update",
+        "kind": 2,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "def do_obj_update():\n    new_data = {\n        \"id\": 3,\n        \"content\": \"awesomer\"  \n    }\n    r = requests.put(BASE_URL + ENDPOINT, data=json.dumps(new_data))\n    # new_data = {\n    #     'id': 1\n    #     \"content\": \"Another more cool content\"  \n    # }",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "do_obj_delete",
+        "kind": 2,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "def do_obj_delete():\n    new_data = {\n        \"id\": 3\n    }\n    r = requests.delete(BASE_URL + ENDPOINT, data=json.dumps(new_data))\n    # new_data = {\n    #     'id': 1\n    #     \"content\": \"Another more cool content\"  \n    # }\n    # r = requests.put(BASE_URL + ENDPOINT, data=new_data)",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "BASE_URL = \"http://127.0.0.1:8000/\"\nENDPOINT = \"api/updates/\"\ndef get_list(id=None): #--> Lists all this out\n    data = json.dumps({})\n    if id is not None:\n        data = json.dumps({\"id\": id})\n    r = requests.get(BASE_URL + ENDPOINT, data=data)\n    print(r.status_code)\n    status_code = r.status_code\n    if status_code != 200: # not found",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "ENDPOINT",
+        "kind": 5,
+        "importPath": "scripts.cfe_pure_api",
+        "description": "scripts.cfe_pure_api",
+        "peekOfCode": "ENDPOINT = \"api/updates/\"\ndef get_list(id=None): #--> Lists all this out\n    data = json.dumps({})\n    if id is not None:\n        data = json.dumps({\"id\": id})\n    r = requests.get(BASE_URL + ENDPOINT, data=data)\n    print(r.status_code)\n    status_code = r.status_code\n    if status_code != 200: # not found\n        print('probably not good sign?')",
+        "detail": "scripts.cfe_pure_api",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_ENDPOINT",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "AUTH_ENDPOINT = \"http://127.0.0.1:8000/api/auth/\"\nREFRESH_ENDPOINT = AUTH_ENDPOINT + \"refresh/\"\nimage_path = os.path.join(os.getcwd(), \"logo.jpg\")\nheaders = {\n    \"Content-Type\": \"application/json\",\n}\ndata = {\n    'username': 'cfe',\n    'password': 'learncode',\n}",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "REFRESH_ENDPOINT",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "REFRESH_ENDPOINT = AUTH_ENDPOINT + \"refresh/\"\nimage_path = os.path.join(os.getcwd(), \"logo.jpg\")\nheaders = {\n    \"Content-Type\": \"application/json\",\n}\ndata = {\n    'username': 'cfe',\n    'password': 'learncode',\n}\nr = requests.post(AUTH_ENDPOINT, data=json.dumps(data), headers=headers)",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "image_path",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "image_path = os.path.join(os.getcwd(), \"logo.jpg\")\nheaders = {\n    \"Content-Type\": \"application/json\",\n}\ndata = {\n    'username': 'cfe',\n    'password': 'learncode',\n}\nr = requests.post(AUTH_ENDPOINT, data=json.dumps(data), headers=headers)\ntoken = r.json()['token']",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "headers = {\n    \"Content-Type\": \"application/json\",\n}\ndata = {\n    'username': 'cfe',\n    'password': 'learncode',\n}\nr = requests.post(AUTH_ENDPOINT, data=json.dumps(data), headers=headers)\ntoken = r.json()['token']\nprint(token)",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "data = {\n    'username': 'cfe',\n    'password': 'learncode',\n}\nr = requests.post(AUTH_ENDPOINT, data=json.dumps(data), headers=headers)\ntoken = r.json()['token']\nprint(token)\nBASE_ENDPOInT = 'http://127.0.0.1:8000/api/status/'\nENDPOINT = BASE_ENDPOInT + \"28/\"\nheaders2 = {",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "r = requests.post(AUTH_ENDPOINT, data=json.dumps(data), headers=headers)\ntoken = r.json()['token']\nprint(token)\nBASE_ENDPOInT = 'http://127.0.0.1:8000/api/status/'\nENDPOINT = BASE_ENDPOInT + \"28/\"\nheaders2 = {\n    #\"Content-Type\": \"application/json\",\n    \"Authorization\": \"JWT \" + token\n}\ndata2 = {",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "token = r.json()['token']\nprint(token)\nBASE_ENDPOInT = 'http://127.0.0.1:8000/api/status/'\nENDPOINT = BASE_ENDPOInT + \"28/\"\nheaders2 = {\n    #\"Content-Type\": \"application/json\",\n    \"Authorization\": \"JWT \" + token\n}\ndata2 = {\n    'content': 'this new content post'",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_ENDPOInT",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "BASE_ENDPOInT = 'http://127.0.0.1:8000/api/status/'\nENDPOINT = BASE_ENDPOInT + \"28/\"\nheaders2 = {\n    #\"Content-Type\": \"application/json\",\n    \"Authorization\": \"JWT \" + token\n}\ndata2 = {\n    'content': 'this new content post'\n}\n# Create",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "ENDPOINT",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "ENDPOINT = BASE_ENDPOInT + \"28/\"\nheaders2 = {\n    #\"Content-Type\": \"application/json\",\n    \"Authorization\": \"JWT \" + token\n}\ndata2 = {\n    'content': 'this new content post'\n}\n# Create\n# Retreive",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "headers2",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "headers2 = {\n    #\"Content-Type\": \"application/json\",\n    \"Authorization\": \"JWT \" + token\n}\ndata2 = {\n    'content': 'this new content post'\n}\n# Create\n# Retreive\n# Update",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "data2",
+        "kind": 5,
+        "importPath": "scripts.cfe_rest_framework_api",
+        "description": "scripts.cfe_rest_framework_api",
+        "peekOfCode": "data2 = {\n    'content': 'this new content post'\n}\n# Create\n# Retreive\n# Update\n# Delete\nwith open(image_path, 'rb') as image:\n    file_data = {\n        'image': image",
+        "detail": "scripts.cfe_rest_framework_api",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetailSerializer",
+        "kind": 6,
+        "importPath": "src.accounts.api.user.serializers",
+        "description": "src.accounts.api.user.serializers",
+        "peekOfCode": "class UserDetailSerializer(serializers.ModelSerializer):\n    uri             = serializers.SerializerMethodField(read_only=True)\n    status          = serializers.SerializerMethodField(read_only=True)\n    # statuses        = serializers.HyperlinkedRelatedField(\n    #                         source = 'status_set', # Status.objects.filter(user=user)\n    #                         many=True,\n    #                         read_only=True,\n    #                         lookup_field ='id',\n    #                         view_name='api-status:detail',\n    #                     )",
+        "detail": "src.accounts.api.user.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.api.user.serializers",
+        "description": "src.accounts.api.user.serializers",
+        "peekOfCode": "User = get_user_model()\nclass UserDetailSerializer(serializers.ModelSerializer):\n    uri             = serializers.SerializerMethodField(read_only=True)\n    status          = serializers.SerializerMethodField(read_only=True)\n    # statuses        = serializers.HyperlinkedRelatedField(\n    #                         source = 'status_set', # Status.objects.filter(user=user)\n    #                         many=True,\n    #                         read_only=True,\n    #                         lookup_field ='id',\n    #                         view_name='api-status:detail',",
+        "detail": "src.accounts.api.user.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "src.accounts.api.user.urls",
+        "description": "src.accounts.api.user.urls",
+        "peekOfCode": "app_name = 'accounts.user'  # Define the app_name attribute\nurlpatterns = [\n    path('<username>/', UserDetailAPIView.as_view(), name='detail'),\n    path('<username>/status/', UserStatusAPIView.as_view(), name='status-list'),\n]",
+        "detail": "src.accounts.api.user.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "src.accounts.api.user.urls",
+        "description": "src.accounts.api.user.urls",
+        "peekOfCode": "urlpatterns = [\n    path('<username>/', UserDetailAPIView.as_view(), name='detail'),\n    path('<username>/status/', UserStatusAPIView.as_view(), name='status-list'),\n]",
+        "detail": "src.accounts.api.user.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetailAPIView",
+        "kind": 6,
+        "importPath": "src.accounts.api.user.views",
+        "description": "src.accounts.api.user.views",
+        "peekOfCode": "class UserDetailAPIView(generics.RetrieveAPIView):\n    #permission_classes  = [permissions.IsAuthenticatedOrReadOnly]\n    queryset            = User.objects.filter(is_active=True)\n    serializer_class    = UserDetailSerializer\n    lookup_field        = 'username' # id\n    def get_serializer_context(self):\n        return {'request': self.request}\nclass UserStatusAPIView(StatusAPIView):\n    serializer_class            = StatusInlineUserSerializer\n    def get_queryset(self, *args, **kwargs):",
+        "detail": "src.accounts.api.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserStatusAPIView",
+        "kind": 6,
+        "importPath": "src.accounts.api.user.views",
+        "description": "src.accounts.api.user.views",
+        "peekOfCode": "class UserStatusAPIView(StatusAPIView):\n    serializer_class            = StatusInlineUserSerializer\n    def get_queryset(self, *args, **kwargs):\n        username = self.kwargs.get(\"username\", None)\n        if username is None:\n            return Status.objects.none()\n        return Status.objects.filter(user__username=username)\n    def post(self, request, *args, **kwargs):\n        return Response({\"detail\": \"Not allowed here\"}, status=400)\n# class UserStatusAPIView(generics.ListAPIView):",
+        "detail": "src.accounts.api.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.api.user.views",
+        "description": "src.accounts.api.user.views",
+        "peekOfCode": "User = get_user_model()\nclass UserDetailAPIView(generics.RetrieveAPIView):\n    #permission_classes  = [permissions.IsAuthenticatedOrReadOnly]\n    queryset            = User.objects.filter(is_active=True)\n    serializer_class    = UserDetailSerializer\n    lookup_field        = 'username' # id\n    def get_serializer_context(self):\n        return {'request': self.request}\nclass UserStatusAPIView(StatusAPIView):\n    serializer_class            = StatusInlineUserSerializer",
+        "detail": "src.accounts.api.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "BlacklistPermission",
+        "kind": 6,
+        "importPath": "src.accounts.api.permissions",
+        "description": "src.accounts.api.permissions",
+        "peekOfCode": "class BlacklistPermission(permissions.BasePermission):\n    \"\"\"\n    Global permission check for blacklisted IPs.\n    \"\"\"\n    def has_permission(self, request, view):\n        ip_addr = request.META['REMOTE_ADDR']\n        # blacklisted = Blacklist.objects.filter(ip_addr=ip_addr).exists() # true / false\n        return True\nclass AnonPermissionOnly(permissions.BasePermission):\n    message = 'You are already authenticated. Please log out to try again.'",
+        "detail": "src.accounts.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AnonPermissionOnly",
+        "kind": 6,
+        "importPath": "src.accounts.api.permissions",
+        "description": "src.accounts.api.permissions",
+        "peekOfCode": "class AnonPermissionOnly(permissions.BasePermission):\n    message = 'You are already authenticated. Please log out to try again.'\n    \"\"\"\n    Non-authenicated Users only\n    \"\"\"\n    def has_permission(self, request, view):\n        return not request.user.is_authenticated # request.user.is_authenticated\nclass IsOwnerOrReadOnly(permissions.BasePermission):\n    message  = 'You must be the owner of this content to change.'\n    \"\"\"",
+        "detail": "src.accounts.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwnerOrReadOnly",
+        "kind": 6,
+        "importPath": "src.accounts.api.permissions",
+        "description": "src.accounts.api.permissions",
+        "peekOfCode": "class IsOwnerOrReadOnly(permissions.BasePermission):\n    message  = 'You must be the owner of this content to change.'\n    \"\"\"\n    Object-level permission to only allow owners of an object to edit it.\n    Assumes the model instance has an `owner` attribute.\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Read permissions are allowed to any request,\n        # so we'll always allow GET, HEAD or OPTIONS requests.\n        if request.method in permissions.SAFE_METHODS:",
+        "detail": "src.accounts.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "MyTokenObtainPairSerializer",
+        "kind": 6,
+        "importPath": "src.accounts.api.serializers",
+        "description": "src.accounts.api.serializers",
+        "peekOfCode": "class MyTokenObtainPairSerializer(TokenObtainPairSerializer):\n    @classmethod\n    def get_token(cls, user):\n        token = super().get_token(user)\n        token['username'] = user.username\n        return token\nclass UserPublicSerializer(serializers.ModelSerializer):\n    uri = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = User",
+        "detail": "src.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserPublicSerializer",
+        "kind": 6,
+        "importPath": "src.accounts.api.serializers",
+        "description": "src.accounts.api.serializers",
+        "peekOfCode": "class UserPublicSerializer(serializers.ModelSerializer):\n    uri = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = User\n        fields = [\n            'id',\n            'username',\n            'uri'\n        ]\n    def get_uri(self, obj):",
+        "detail": "src.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSerializer",
+        "kind": 6,
+        "importPath": "src.accounts.api.serializers",
+        "description": "src.accounts.api.serializers",
+        "peekOfCode": "class UserRegisterSerializer(serializers.ModelSerializer):\n    password2 = serializers.CharField(style={'input_type': 'password'}, write_only=True)\n    token = serializers.SerializerMethodField(read_only=True)\n    expires = serializers.SerializerMethodField(read_only=True)\n    message = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = User\n        fields = [\n            'username',\n            'email',",
+        "detail": "src.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.api.serializers",
+        "description": "src.accounts.api.serializers",
+        "peekOfCode": "User = get_user_model()\nclass MyTokenObtainPairSerializer(TokenObtainPairSerializer):\n    @classmethod\n    def get_token(cls, user):\n        token = super().get_token(user)\n        token['username'] = user.username\n        return token\nclass UserPublicSerializer(serializers.ModelSerializer):\n    uri = serializers.SerializerMethodField(read_only=True)\n    class Meta:",
+        "detail": "src.accounts.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserAPITestCase",
+        "kind": 6,
+        "importPath": "src.accounts.api.tests",
+        "description": "src.accounts.api.tests",
+        "peekOfCode": "class UserAPITestCase(APITestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_created_user(self):\n        qs = User.objects.filter(username='cfe')\n        self.assertEqual(qs.count(), 1)\n    def test_register_user_api_fail(self):\n        url = api_reverse('api-auth:register')",
+        "detail": "src.accounts.api.tests",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.api.tests",
+        "description": "src.accounts.api.tests",
+        "peekOfCode": "User = get_user_model()\nclass UserAPITestCase(APITestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_created_user(self):\n        qs = User.objects.filter(username='cfe')\n        self.assertEqual(qs.count(), 1)\n    def test_register_user_api_fail(self):",
+        "detail": "src.accounts.api.tests",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "src.accounts.api.urls",
+        "description": "src.accounts.api.urls",
+        "peekOfCode": "app_name = 'accounts'  # Define the app_name attribute\nurlpatterns = [\n    path('', AuthAPIView.as_view(), name='login'),\n    path('register/', RegisterAPIView.as_view(), name='register'),\n    path('jwt/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('jwt/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('token/blacklist/', TokenBlacklistView.as_view(), name='token_blacklist'),\n]",
+        "detail": "src.accounts.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "src.accounts.api.urls",
+        "description": "src.accounts.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', AuthAPIView.as_view(), name='login'),\n    path('register/', RegisterAPIView.as_view(), name='register'),\n    path('jwt/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('jwt/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('token/blacklist/', TokenBlacklistView.as_view(), name='token_blacklist'),\n]",
+        "detail": "src.accounts.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_response_payload_handler",
+        "kind": 2,
+        "importPath": "src.accounts.api.utils",
+        "description": "src.accounts.api.utils",
+        "peekOfCode": "def jwt_response_payload_handler(token, user=None, request=None):\n    return {\n        'token': str(token.access_token),\n        'user': user.username,\n        'expires': timezone.now() + timedelta(seconds=api_settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'])\n    }",
+        "detail": "src.accounts.api.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AuthAPIView",
+        "kind": 6,
+        "importPath": "src.accounts.api.views",
+        "description": "src.accounts.api.views",
+        "peekOfCode": "class AuthAPIView(APIView):\n    permission_classes = [AnonPermissionOnly]\n    def post(self, request, *args, **kwargs):\n        if request.user.is_authenticated:\n            return Response({'detail': 'You are already authenticated'}, status=400)\n        data = request.data\n        username = data.get('username')\n        password = data.get('password')\n        user = authenticate(request, username=username, password=password)\n        if user:",
+        "detail": "src.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterAPIView",
+        "kind": 6,
+        "importPath": "src.accounts.api.views",
+        "description": "src.accounts.api.views",
+        "peekOfCode": "class RegisterAPIView(generics.CreateAPIView):\n    queryset                = User.objects.all()\n    serializer_class        = UserRegisterSerializer\n    permission_classes      = [AnonPermissionOnly]\n    def get_serializer_context(self, *args, **kwargs):\n        return {\"request\": self.request}\nfrom rest_framework_simplejwt.serializers import TokenObtainPairSerializer\nclass MyTokenObtainPairView(TokenObtainPairView):\n    serializer_class = MyTokenObtainPairSerializer\n# class RegisterAPIView(APIView):",
+        "detail": "src.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "MyTokenObtainPairView",
+        "kind": 6,
+        "importPath": "src.accounts.api.views",
+        "description": "src.accounts.api.views",
+        "peekOfCode": "class MyTokenObtainPairView(TokenObtainPairView):\n    serializer_class = MyTokenObtainPairSerializer\n# class RegisterAPIView(APIView):\n#     permission_classes      = [permissions.AllowAny]\n#     def post(self, request, *args, **kwargs):\n#         if request.user.is_authenticated():\n#             return Response({'detail': 'You are already registered and are authenticated.'}, status=400)\n#         data = request.data\n#         username        = data.get('username') # username or email address\n#         email           = data.get('username')",
+        "detail": "src.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.api.views",
+        "description": "src.accounts.api.views",
+        "peekOfCode": "User = get_user_model()\nclass AuthAPIView(APIView):\n    permission_classes = [AnonPermissionOnly]\n    def post(self, request, *args, **kwargs):\n        if request.user.is_authenticated:\n            return Response({'detail': 'You are already authenticated'}, status=400)\n        data = request.data\n        username = data.get('username')\n        password = data.get('password')\n        user = authenticate(request, username=username, password=password)",
+        "detail": "src.accounts.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "src.accounts.apps",
+        "description": "src.accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
+        "detail": "src.accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserTestCase",
+        "kind": 6,
+        "importPath": "src.accounts.tests",
+        "description": "src.accounts.tests",
+        "peekOfCode": "class UserTestCase(TestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_created_user(self):\n        qs = User.objects.filter(username='cfe')\n        self.assertEqual(qs.count(), 1)",
+        "detail": "src.accounts.tests",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.accounts.tests",
+        "description": "src.accounts.tests",
+        "peekOfCode": "User = get_user_model()\nclass UserTestCase(TestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_created_user(self):\n        qs = User.objects.filter(username='cfe')\n        self.assertEqual(qs.count(), 1)",
+        "detail": "src.accounts.tests",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "src.cfeapi.restconf.main",
+        "description": "src.cfeapi.restconf.main",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        #'rest_framework.authentication.BasicAuthentication',\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n        'rest_framework.authentication.SessionAuthentication', #Oauth, JWT\n    ),\n    'DEFAULT_PERMISSION_CLASSES': (\n        'rest_framework.permissions.IsAuthenticatedOrReadOnly',\n    ),\n    'DEFAULT_PAGINATION_CLASS': 'cfeapi.restconf.pagination.CFEAPIPagination',",
+        "detail": "src.cfeapi.restconf.main",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "src.cfeapi.restconf.main",
+        "description": "src.cfeapi.restconf.main",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': datetime.timedelta(minutes=15),\n    'REFRESH_TOKEN_LIFETIME': datetime.timedelta(days=7),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': False,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,\n    'VERIFYING_KEY': None,\n    'AUTH_HEADER_TYPES': ('JWT',),\n    'USER_ID_FIELD': 'id',",
+        "detail": "src.cfeapi.restconf.main",
+        "documentation": {}
+    },
+    {
+        "label": "CFEAPIPagination",
+        "kind": 6,
+        "importPath": "src.cfeapi.restconf.pagination",
+        "description": "src.cfeapi.restconf.pagination",
+        "peekOfCode": "class CFEAPIPagination(pagination.LimitOffsetPagination): #PageNumberPagination):\n    #page_size   =  20\n    default_limit   = 10\n    max_limit       = 20\n    #limit_query_param = 'lim'",
+        "detail": "src.cfeapi.restconf.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseMixin",
+        "kind": 6,
+        "importPath": "src.cfeapi.mixins",
+        "description": "src.cfeapi.mixins",
+        "peekOfCode": "class HttpResponseMixin(object):\n    is_json = False\n    def render_to_response(self, data, status=200):\n        content_type = 'text/html'\n        if self.is_json:\n            content_type = 'application/json' \n        return HttpResponse(data, content_type=content_type, status=status)\nclass JsonResponseMixin(object):\n    def render_to_json_response(self, context, **response_kwargs):\n        return JsonResponse(self.get_data(context), **response_kwargs)",
+        "detail": "src.cfeapi.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponseMixin",
+        "kind": 6,
+        "importPath": "src.cfeapi.mixins",
+        "description": "src.cfeapi.mixins",
+        "peekOfCode": "class JsonResponseMixin(object):\n    def render_to_json_response(self, context, **response_kwargs):\n        return JsonResponse(self.get_data(context), **response_kwargs)\n    def get_data(self, context):\n        return context",
+        "detail": "src.cfeapi.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '_+-seo%0kh!3$18@w=oi#v6q8qf-az3r!6ic=_cqimv*_n&6%q'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAPPEND_SLASH = True\n# Application definition",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "SECRET_KEY = '_+-seo%0kh!3$18@w=oi#v6q8qf-az3r!6ic=_cqimv*_n&6%q'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAPPEND_SLASH = True\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nAPPEND_SLASH = True\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nAPPEND_SLASH = True\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "APPEND_SLASH",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "APPEND_SLASH = True\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # third party",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # third party\n    'rest_framework',\n    'rest_framework_simplejwt.token_blacklist',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'cfeapi.urls'",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "ROOT_URLCONF = 'cfeapi.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'cfeapi.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/1.11/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# DATABASES = {",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.mysql', \n#         'NAME': 'rest-api',",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Password validation\n# https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.11/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.11/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.11/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.11/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.11/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static-server', 'media-root') # '/Users/cfe/dev/restapi/'\nMEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "src.cfeapi.settings",
+        "description": "src.cfeapi.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nfrom cfeapi.restconf.main import *",
+        "detail": "src.cfeapi.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "src.cfeapi.urls",
+        "description": "src.cfeapi.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/auth/', include('accounts.api.urls', namespace='api-auth')),\n    path('api/user/', include('accounts.api.user.urls', namespace='api-user')),\n    path('api/status/', include('status.api.urls', namespace='api-status')),\n    path('api/updates/', include('updates.api.urls')), \n]",
+        "detail": "src.cfeapi.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "src.cfeapi.wsgi",
+        "description": "src.cfeapi.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "src.cfeapi.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "StatusSerializer",
+        "kind": 6,
+        "importPath": "src.status.api.serializers",
+        "description": "src.status.api.serializers",
+        "peekOfCode": "class StatusSerializer(serializers.ModelSerializer):\n    uri             = serializers.SerializerMethodField(read_only=True)\n    #user            = serializers.SerializerMethodField(read_only=True)\n    user            = UserPublicSerializer(read_only=True)\n    #user_id         = serializers.PrimaryKeyRelatedField(source='user', read_only=True)\n    # user_id         = serializers.HyperlinkedRelatedField(\n    #                         source='user',  # user foreign key\n    #                         lookup_field='username',\n    #                         view_name='api-user:detail',\n    #                         read_only=True",
+        "detail": "src.status.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StatusInlineUserSerializer",
+        "kind": 6,
+        "importPath": "src.status.api.serializers",
+        "description": "src.status.api.serializers",
+        "peekOfCode": "class StatusInlineUserSerializer(StatusSerializer):\n    #uri             = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = Status \n        fields =[\n            'uri',\n            'id',\n            'content',\n            'image'\n        ]",
+        "detail": "src.status.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomSerializer",
+        "kind": 6,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "class CustomSerializer(serializers.Serializer):\n    content =      serializers.CharField()\n    email       =  serializers.EmailField()\ndata = {'email': 'hello@teamcfe.com', 'content': \"please delete me\"}\ncreate_obj_serializer = CustomSerializer(data=data)\nif create_obj_serializer.is_valid():\n    valid_data = create_obj_serializer.data\n    print(valid_data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "obj = Status.objects.first()\nserializer = StatusSerializer(obj)\nserializer.data\njson_data = JSONRenderer().render(serializer.data)\nprint(json_data)\nstream = BytesIO(json_data)\ndata = JSONParser().parse(stream)\nprint(data)\n'''\nSerialize a queryset",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "serializer = StatusSerializer(obj)\nserializer.data\njson_data = JSONRenderer().render(serializer.data)\nprint(json_data)\nstream = BytesIO(json_data)\ndata = JSONParser().parse(stream)\nprint(data)\n'''\nSerialize a queryset\n'''",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "json_data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "json_data = JSONRenderer().render(serializer.data)\nprint(json_data)\nstream = BytesIO(json_data)\ndata = JSONParser().parse(stream)\nprint(data)\n'''\nSerialize a queryset\n'''\nqs = Status.objects.all()\nserializer2 = StatusSerializer(qs, many=True)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "stream",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "stream = BytesIO(json_data)\ndata = JSONParser().parse(stream)\nprint(data)\n'''\nSerialize a queryset\n'''\nqs = Status.objects.all()\nserializer2 = StatusSerializer(qs, many=True)\nserializer2.data\njson_data2 = JSONRenderer().render(serializer2.data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data = JSONParser().parse(stream)\nprint(data)\n'''\nSerialize a queryset\n'''\nqs = Status.objects.all()\nserializer2 = StatusSerializer(qs, many=True)\nserializer2.data\njson_data2 = JSONRenderer().render(serializer2.data)\nprint(json_data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "qs",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "qs = Status.objects.all()\nserializer2 = StatusSerializer(qs, many=True)\nserializer2.data\njson_data2 = JSONRenderer().render(serializer2.data)\nprint(json_data)\nstream2 = BytesIO(json_data2)\ndata2 = JSONParser().parse(stream2)\nprint(data2)\n'''\nCreate obj",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "serializer2",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "serializer2 = StatusSerializer(qs, many=True)\nserializer2.data\njson_data2 = JSONRenderer().render(serializer2.data)\nprint(json_data)\nstream2 = BytesIO(json_data2)\ndata2 = JSONParser().parse(stream2)\nprint(data2)\n'''\nCreate obj\n'''",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "json_data2",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "json_data2 = JSONRenderer().render(serializer2.data)\nprint(json_data)\nstream2 = BytesIO(json_data2)\ndata2 = JSONParser().parse(stream2)\nprint(data2)\n'''\nCreate obj\n'''\ndata = {'user': 1}\nserializer = StatusSerializer(data=data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "stream2",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "stream2 = BytesIO(json_data2)\ndata2 = JSONParser().parse(stream2)\nprint(data2)\n'''\nCreate obj\n'''\ndata = {'user': 1}\nserializer = StatusSerializer(data=data)\nserializer.is_valid()\nserializer.save()",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data2",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data2 = JSONParser().parse(stream2)\nprint(data2)\n'''\nCreate obj\n'''\ndata = {'user': 1}\nserializer = StatusSerializer(data=data)\nserializer.is_valid()\nserializer.save()\n# if serializer.is_valid():",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data = {'user': 1}\nserializer = StatusSerializer(data=data)\nserializer.is_valid()\nserializer.save()\n# if serializer.is_valid():\n#     serializer.save()\n'''\nUpdate obj\n'''\nobj = Status.objects.first() #?",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "serializer = StatusSerializer(data=data)\nserializer.is_valid()\nserializer.save()\n# if serializer.is_valid():\n#     serializer.save()\n'''\nUpdate obj\n'''\nobj = Status.objects.first() #?\ndata = {'content': 'some new content', \"user\": 1}",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "obj = Status.objects.first() #?\ndata = {'content': 'some new content', \"user\": 1}\nupdate_serializer = StatusSerializer(obj, data=data)\nupdate_serializer.is_valid()\nupdate_serializer.save()\n'''\nDelete Obj\n'''\ndata = {'user': 1, 'content': \"please delete me\"}\ncreate_obj_serializer = StatusSerializer(data=data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data = {'content': 'some new content', \"user\": 1}\nupdate_serializer = StatusSerializer(obj, data=data)\nupdate_serializer.is_valid()\nupdate_serializer.save()\n'''\nDelete Obj\n'''\ndata = {'user': 1, 'content': \"please delete me\"}\ncreate_obj_serializer = StatusSerializer(data=data)\ncreate_obj_serializer.is_valid()",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "update_serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "update_serializer = StatusSerializer(obj, data=data)\nupdate_serializer.is_valid()\nupdate_serializer.save()\n'''\nDelete Obj\n'''\ndata = {'user': 1, 'content': \"please delete me\"}\ncreate_obj_serializer = StatusSerializer(data=data)\ncreate_obj_serializer.is_valid()\ncreate_obj = create_obj_serializer.save() # instance of the object",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data = {'user': 1, 'content': \"please delete me\"}\ncreate_obj_serializer = StatusSerializer(data=data)\ncreate_obj_serializer.is_valid()\ncreate_obj = create_obj_serializer.save() # instance of the object\nprint(create_obj)\n#data = {'id': 9}\nobj = Status.objects.last()\nget_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "create_obj_serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "create_obj_serializer = StatusSerializer(data=data)\ncreate_obj_serializer.is_valid()\ncreate_obj = create_obj_serializer.save() # instance of the object\nprint(create_obj)\n#data = {'id': 9}\nobj = Status.objects.last()\nget_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()\nprint(obj.delete())",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "create_obj",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "create_obj = create_obj_serializer.save() # instance of the object\nprint(create_obj)\n#data = {'id': 9}\nobj = Status.objects.last()\nget_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()\nprint(obj.delete())\nfrom rest_framework import serializers\nclass CustomSerializer(serializers.Serializer):",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "#data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "#data = {'id': 9}\nobj = Status.objects.last()\nget_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()\nprint(obj.delete())\nfrom rest_framework import serializers\nclass CustomSerializer(serializers.Serializer):\n    content =      serializers.CharField()\n    email       =  serializers.EmailField()",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "obj = Status.objects.last()\nget_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()\nprint(obj.delete())\nfrom rest_framework import serializers\nclass CustomSerializer(serializers.Serializer):\n    content =      serializers.CharField()\n    email       =  serializers.EmailField()\ndata = {'email': 'hello@teamcfe.com', 'content': \"please delete me\"}",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "get_data_serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "get_data_serializer = StatusSerializer(obj)\n# update_serializer.is_valid()\n# update_serializer.save()\nprint(obj.delete())\nfrom rest_framework import serializers\nclass CustomSerializer(serializers.Serializer):\n    content =      serializers.CharField()\n    email       =  serializers.EmailField()\ndata = {'email': 'hello@teamcfe.com', 'content': \"please delete me\"}\ncreate_obj_serializer = CustomSerializer(data=data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "data = {'email': 'hello@teamcfe.com', 'content': \"please delete me\"}\ncreate_obj_serializer = CustomSerializer(data=data)\nif create_obj_serializer.is_valid():\n    valid_data = create_obj_serializer.data\n    print(valid_data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "create_obj_serializer",
+        "kind": 5,
+        "importPath": "src.status.api.shell_examples",
+        "description": "src.status.api.shell_examples",
+        "peekOfCode": "create_obj_serializer = CustomSerializer(data=data)\nif create_obj_serializer.is_valid():\n    valid_data = create_obj_serializer.data\n    print(valid_data)",
+        "detail": "src.status.api.shell_examples",
+        "documentation": {}
+    },
+    {
+        "label": "StatusAPITestCase",
+        "kind": 6,
+        "importPath": "src.status.api.tests",
+        "description": "src.status.api.tests",
+        "peekOfCode": "class StatusAPITestCase(APITestCase): \n    def setUp(self): \n        user =  User.objects.create(username='testcfeuser', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n        status_obj = Status.objects.create(user=user, content='Hello there!')\n    def test_statuses(self):\n        self.assertEqual(Status.objects.count(), 1)\n    def status_user_token(self):\n        auth_url = api_reverse('api-auth:login')",
+        "detail": "src.status.api.tests",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.status.api.tests",
+        "description": "src.status.api.tests",
+        "peekOfCode": "User = get_user_model()\nclass StatusAPITestCase(APITestCase): \n    def setUp(self): \n        user =  User.objects.create(username='testcfeuser', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n        status_obj = Status.objects.create(user=user, content='Hello there!')\n    def test_statuses(self):\n        self.assertEqual(Status.objects.count(), 1)\n    def status_user_token(self):",
+        "detail": "src.status.api.tests",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "src.status.api.urls",
+        "description": "src.status.api.urls",
+        "peekOfCode": "app_name = 'status'  # Define the app_name attribute\nurlpatterns = [\n    path('', StatusAPIView.as_view(), name='list'),\n    path('<id>/', StatusAPIDetailView.as_view(), name='detail'),\n]",
+        "detail": "src.status.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "src.status.api.urls",
+        "description": "src.status.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', StatusAPIView.as_view(), name='list'),\n    path('<id>/', StatusAPIDetailView.as_view(), name='detail'),\n]",
+        "detail": "src.status.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StatusAPIDetailView",
+        "kind": 6,
+        "importPath": "src.status.api.views",
+        "description": "src.status.api.views",
+        "peekOfCode": "class StatusAPIDetailView(\n    mixins.UpdateModelMixin,\n    mixins.DestroyModelMixin, \n    generics.RetrieveAPIView):\n    permission_classes          = [permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]\n    serializer_class            = StatusSerializer\n    queryset                    = Status.objects.all()\n    lookup_field                = 'id'\n    def put(self, request, *args, **kwargs):\n        return self.update(request, *args, **kwargs)",
+        "detail": "src.status.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StatusAPIView",
+        "kind": 6,
+        "importPath": "src.status.api.views",
+        "description": "src.status.api.views",
+        "peekOfCode": "class StatusAPIView(\n    mixins.CreateModelMixin, \n    generics.ListAPIView): \n    permission_classes          = [permissions.IsAuthenticatedOrReadOnly]\n    serializer_class            = StatusSerializer\n    passed_id                   = None\n    search_fields               = ('user__username', 'content', 'user__email')\n    ordering_fields             = ('user__username', 'timestamp')\n    queryset                    = Status.objects.all()\n    # def get_queryset(self):",
+        "detail": "src.status.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "is_json",
+        "kind": 2,
+        "importPath": "src.status.api.views",
+        "description": "src.status.api.views",
+        "peekOfCode": "def is_json(json_data):\n    try:\n        real_json = json.loads(json_data)\n        is_valid = True\n    except ValueError:\n        is_valid = False\n    return is_valid\nclass StatusAPIDetailView(\n    mixins.UpdateModelMixin,\n    mixins.DestroyModelMixin, ",
+        "detail": "src.status.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "src.status.migrations.0001_initial",
+        "description": "src.status.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Status',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "src.status.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "StatusAdmin",
+        "kind": 6,
+        "importPath": "src.status.admin",
+        "description": "src.status.admin",
+        "peekOfCode": "class StatusAdmin(admin.ModelAdmin):\n    list_display = ['user', '__str__', 'image']\n    form = StatusForm\n    # class Meta:\n    #     model = Status\nadmin.site.register(Status, StatusAdmin)",
+        "detail": "src.status.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StatusConfig",
+        "kind": 6,
+        "importPath": "src.status.apps",
+        "description": "src.status.apps",
+        "peekOfCode": "class StatusConfig(AppConfig):\n    name = 'status'",
+        "detail": "src.status.apps",
+        "documentation": {}
+    },
+    {
+        "label": "StatusForm",
+        "kind": 6,
+        "importPath": "src.status.forms",
+        "description": "src.status.forms",
+        "peekOfCode": "class StatusForm(forms.ModelForm):\n    class Meta:\n        model = Status\n        fields = [\n            'user',\n            'content',\n            'image'\n        ]\n    def clean_content(self, *args, **kwargs):\n        content = self.cleaned_data.get('content')",
+        "detail": "src.status.forms",
+        "documentation": {}
+    },
+    {
+        "label": "StatusQuerySet",
+        "kind": 6,
+        "importPath": "src.status.models",
+        "description": "src.status.models",
+        "peekOfCode": "class StatusQuerySet(models.QuerySet):\n    pass\nclass StatusManager(models.Manager):\n    def get_queryset(self):\n        return StatusQuerySet(self.model, using=self._db)\nclass Status(models.Model): # fb status, instagram post, tweet, linkedin post\n    id          = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user        = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()\n    content     = models.TextField(null=True, blank=True)\n    image       = models.ImageField(upload_to=upload_status_image, null=True, blank=True)  # Django Storages --> AWS S3",
+        "detail": "src.status.models",
+        "documentation": {}
+    },
+    {
+        "label": "StatusManager",
+        "kind": 6,
+        "importPath": "src.status.models",
+        "description": "src.status.models",
+        "peekOfCode": "class StatusManager(models.Manager):\n    def get_queryset(self):\n        return StatusQuerySet(self.model, using=self._db)\nclass Status(models.Model): # fb status, instagram post, tweet, linkedin post\n    id          = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user        = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()\n    content     = models.TextField(null=True, blank=True)\n    image       = models.ImageField(upload_to=upload_status_image, null=True, blank=True)  # Django Storages --> AWS S3\n    updated     = models.DateTimeField(auto_now=True)\n    timestamp   = models.DateTimeField(auto_now_add=True)",
+        "detail": "src.status.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "kind": 6,
+        "importPath": "src.status.models",
+        "description": "src.status.models",
+        "peekOfCode": "class Status(models.Model): # fb status, instagram post, tweet, linkedin post\n    id          = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user        = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()\n    content     = models.TextField(null=True, blank=True)\n    image       = models.ImageField(upload_to=upload_status_image, null=True, blank=True)  # Django Storages --> AWS S3\n    updated     = models.DateTimeField(auto_now=True)\n    timestamp   = models.DateTimeField(auto_now_add=True)\n    objects = StatusManager()\n    def __str__(self):\n        return str(self.content)[:50]",
+        "detail": "src.status.models",
+        "documentation": {}
+    },
+    {
+        "label": "upload_status_image",
+        "kind": 2,
+        "importPath": "src.status.models",
+        "description": "src.status.models",
+        "peekOfCode": "def upload_status_image(instance, filename):\n    return \"status/{user}/{filename}\".format(user=instance.user, filename=filename)\nclass StatusQuerySet(models.QuerySet):\n    pass\nclass StatusManager(models.Manager):\n    def get_queryset(self):\n        return StatusQuerySet(self.model, using=self._db)\nclass Status(models.Model): # fb status, instagram post, tweet, linkedin post\n    id          = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user        = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()",
+        "detail": "src.status.models",
+        "documentation": {}
+    },
+    {
+        "label": "StatusTestCase",
+        "kind": 6,
+        "importPath": "src.status.tests",
+        "description": "src.status.tests",
+        "peekOfCode": "class StatusTestCase(TestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_creating_status(self):\n        user = User.objects.get(username='cfe')\n        obj = Status.objects.create(user=user, content='Some cool new content')\n        self.assertEqual(obj.id, 1)\n        qs = Status.objects.all()",
+        "detail": "src.status.tests",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "src.status.tests",
+        "description": "src.status.tests",
+        "peekOfCode": "User = get_user_model()\nclass StatusTestCase(TestCase): \n    def setUp(self): \n        user =  User.objects.create(username='cfe', email='hello@cfe.com')\n        user.set_password(\"yeahhhcfe\")\n        user.save()\n    def test_creating_status(self):\n        user = User.objects.get(username='cfe')\n        obj = Status.objects.create(user=user, content='Some cool new content')\n        self.assertEqual(obj.id, 1)",
+        "detail": "src.status.tests",
+        "documentation": {}
+    },
+    {
+        "label": "CSRFExemptMixin",
+        "kind": 6,
+        "importPath": "src.updates.api.mixins",
+        "description": "src.updates.api.mixins",
+        "peekOfCode": "class CSRFExemptMixin(object):\n    @method_decorator(csrf_exempt)\n    def dispatch(self, *args, **kwargs):\n        return super().dispatch(*args, **kwargs) # super(CSRFExemptMixin, self)",
+        "detail": "src.updates.api.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "src.updates.api.urls",
+        "description": "src.updates.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', UpdateModelListAPIView.as_view()), # api/updates/ - List/Create\n    path('<id>/', UpdateModelDetailAPIView.as_view()),\n]",
+        "detail": "src.updates.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "is_json",
+        "kind": 2,
+        "importPath": "src.updates.api.utils",
+        "description": "src.updates.api.utils",
+        "peekOfCode": "def is_json(json_data):\n    try:\n        real_json = json.loads(json_data)\n        is_valid = True\n    except ValueError:\n        is_valid = False\n    return is_valid",
+        "detail": "src.updates.api.utils",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateModelDetailAPIView",
+        "kind": 6,
+        "importPath": "src.updates.api.views",
+        "description": "src.updates.api.views",
+        "peekOfCode": "class UpdateModelDetailAPIView(HttpResponseMixin, CSRFExemptMixin, View):\n    '''\n    Retrieve, Update, Delete --> Object\n    '''\n    is_json = True\n    def get_object(self, id=None):\n        # try:\n        #     obj = UpdateModel.objects.get(id=id)\n        # except UpdateModel.DoesNotExist:\n        #     obj = None",
+        "detail": "src.updates.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateModelListAPIView",
+        "kind": 6,
+        "importPath": "src.updates.api.views",
+        "description": "src.updates.api.views",
+        "peekOfCode": "class UpdateModelListAPIView(HttpResponseMixin, CSRFExemptMixin, View):\n    '''\n    List View --> Retrieve -- Detail View\n    Create View\n    Update\n    Delete\n    '''\n    is_json = True\n    queryset = None\n    def get_queryset(self):",
+        "detail": "src.updates.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "src.updates.migrations.0001_initial",
+        "description": "src.updates.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Update',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "src.updates.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UpdatesConfig",
+        "kind": 6,
+        "importPath": "src.updates.apps",
+        "description": "src.updates.apps",
+        "peekOfCode": "class UpdatesConfig(AppConfig):\n    name = 'updates'",
+        "detail": "src.updates.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateModelForm",
+        "kind": 6,
+        "importPath": "src.updates.forms",
+        "description": "src.updates.forms",
+        "peekOfCode": "class UpdateModelForm(forms.ModelForm):\n    class Meta:\n        model = UpdateModel\n        fields = [\n            'user',\n            'content',\n            'image'\n        ]\n    def clean(self, *args, **kwargs):\n        data = self.cleaned_data",
+        "detail": "src.updates.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateQuerySet",
+        "kind": 6,
+        "importPath": "src.updates.models",
+        "description": "src.updates.models",
+        "peekOfCode": "class UpdateQuerySet(models.QuerySet):\n    # def serialize(self):\n    #     qs = self \n    #     return serialize('json', qs, fields=('user', 'content', 'image'))\n    # def serialize(self):\n    #     qs = self \n    #     final_array = []\n    #     for obj in qs:\n    #         stuct = json.loads(obj.serialize())\n    #         final_array.append(stuct)",
+        "detail": "src.updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateManager",
+        "kind": 6,
+        "importPath": "src.updates.models",
+        "description": "src.updates.models",
+        "peekOfCode": "class UpdateManager(models.Manager):\n    def get_queryset(self):\n        return UpdateQuerySet(self.model, using=self._db)\nclass Update(models.Model):\n    id              = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user            = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()\n    content         = models.TextField(blank=True, null=True)\n    image           = models.ImageField(upload_to=upload_update_image, blank=True, null=True)\n    updated         = models.DateTimeField(auto_now=True)\n    timestamp       = models.DateTimeField(auto_now_add=True)",
+        "detail": "src.updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "kind": 6,
+        "importPath": "src.updates.models",
+        "description": "src.updates.models",
+        "peekOfCode": "class Update(models.Model):\n    id              = models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID') \n    user            = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE) # User instance .save()\n    content         = models.TextField(blank=True, null=True)\n    image           = models.ImageField(upload_to=upload_update_image, blank=True, null=True)\n    updated         = models.DateTimeField(auto_now=True)\n    timestamp       = models.DateTimeField(auto_now_add=True)\n    objects = UpdateManager()\n    def __str__(self):\n        return self.content or \"\"",
+        "detail": "src.updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "upload_update_image",
+        "kind": 2,
+        "importPath": "src.updates.models",
+        "description": "src.updates.models",
+        "peekOfCode": "def upload_update_image(instance, filename):\n    return \"updates/{user}/{filename}\".format(user=instance.user, filename=filename)\nclass UpdateQuerySet(models.QuerySet):\n    # def serialize(self):\n    #     qs = self \n    #     return serialize('json', qs, fields=('user', 'content', 'image'))\n    # def serialize(self):\n    #     qs = self \n    #     final_array = []\n    #     for obj in qs:",
+        "detail": "src.updates.models",
+        "documentation": {}
+    },
+    {
+        "label": "JsonCBV",
+        "kind": 6,
+        "importPath": "src.updates.views",
+        "description": "src.updates.views",
+        "peekOfCode": "class JsonCBV(View):\n    def get(self, request, *args, **kwargs):\n        data = {\n            \"count\": 1000,\n            \"content\": \"Some new content\"\n        }\n        return JsonResponse(data)\nclass JsonCBV2(JsonResponseMixin, View):\n     def get(self, request, *args, **kwargs):\n        data = {",
+        "detail": "src.updates.views",
+        "documentation": {}
+    },
+    {
+        "label": "JsonCBV2",
+        "kind": 6,
+        "importPath": "src.updates.views",
+        "description": "src.updates.views",
+        "peekOfCode": "class JsonCBV2(JsonResponseMixin, View):\n     def get(self, request, *args, **kwargs):\n        data = {\n            \"count\": 1000,\n            \"content\": \"Some new content\"\n        }\n        return self.render_to_json_response(data)\nclass SerializedDetialView(View):\n     def get(self, request, *args, **kwargs):\n        obj = Update.objects.get(id=1)",
+        "detail": "src.updates.views",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedDetialView",
+        "kind": 6,
+        "importPath": "src.updates.views",
+        "description": "src.updates.views",
+        "peekOfCode": "class SerializedDetialView(View):\n     def get(self, request, *args, **kwargs):\n        obj = Update.objects.get(id=1)\n        json_data = obj.serialize()\n        return HttpResponse(json_data, content_type='application/json')\nclass SerializedListView(View):\n     def get(self, request, *args, **kwargs):\n        qs = Update.objects.all()\n        json_data = Update.objects.all().serialize()\n        return HttpResponse(json_data, content_type='application/json')",
+        "detail": "src.updates.views",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedListView",
+        "kind": 6,
+        "importPath": "src.updates.views",
+        "description": "src.updates.views",
+        "peekOfCode": "class SerializedListView(View):\n     def get(self, request, *args, **kwargs):\n        qs = Update.objects.all()\n        json_data = Update.objects.all().serialize()\n        return HttpResponse(json_data, content_type='application/json')",
+        "detail": "src.updates.views",
+        "documentation": {}
+    },
+    {
+        "label": "json_example_view",
+        "kind": 2,
+        "importPath": "src.updates.views",
+        "description": "src.updates.views",
+        "peekOfCode": "def json_example_view(request):\n    '''\n    URI -- for a REST API\n    GET -- Retrieve\n    '''\n    data = {\n        \"count\": 1000,\n        \"content\": \"Some new content\"\n    }\n    json_data = json.dumps(data)",
+        "detail": "src.updates.views",
+        "documentation": {}
+    },
+    {
+        "label": "repo",
+        "kind": 5,
+        "importPath": "parse_git_log",
+        "description": "parse_git_log",
+        "peekOfCode": "repo = git.Repo(os.getcwd())\nmaster = repo.head.reference\nwith open(\"parsed_log.md\", \"w+\") as parsed_log:\n\tfor commit in master.log():\n\t\tif \"commit\" in commit.message:\n\t\t\tcommit_mess = commit.message.replace(\"commit: \", \"\").replace(\"commit (initial): \", \"\")\n\t\t\tline = \"[{message}](../../tree/{commit}/)\".format(message=commit_mess, commit=commit.newhexsha)\n\t\t\tparsed_log.write(line)\n\t\t\tparsed_log.write(\"\\n\\n\")",
+        "detail": "parse_git_log",
+        "documentation": {}
+    },
+    {
+        "label": "master",
+        "kind": 5,
+        "importPath": "parse_git_log",
+        "description": "parse_git_log",
+        "peekOfCode": "master = repo.head.reference\nwith open(\"parsed_log.md\", \"w+\") as parsed_log:\n\tfor commit in master.log():\n\t\tif \"commit\" in commit.message:\n\t\t\tcommit_mess = commit.message.replace(\"commit: \", \"\").replace(\"commit (initial): \", \"\")\n\t\t\tline = \"[{message}](../../tree/{commit}/)\".format(message=commit_mess, commit=commit.newhexsha)\n\t\t\tparsed_log.write(line)\n\t\t\tparsed_log.write(\"\\n\\n\")",
+        "detail": "parse_git_log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tcommit_mess",
+        "kind": 5,
+        "importPath": "parse_git_log",
+        "description": "parse_git_log",
+        "peekOfCode": "\t\t\tcommit_mess = commit.message.replace(\"commit: \", \"\").replace(\"commit (initial): \", \"\")\n\t\t\tline = \"[{message}](../../tree/{commit}/)\".format(message=commit_mess, commit=commit.newhexsha)\n\t\t\tparsed_log.write(line)\n\t\t\tparsed_log.write(\"\\n\\n\")",
+        "detail": "parse_git_log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tline",
+        "kind": 5,
+        "importPath": "parse_git_log",
+        "description": "parse_git_log",
+        "peekOfCode": "\t\t\tline = \"[{message}](../../tree/{commit}/)\".format(message=commit_mess, commit=commit.newhexsha)\n\t\t\tparsed_log.write(line)\n\t\t\tparsed_log.write(\"\\n\\n\")",
+        "detail": "parse_git_log",
+        "documentation": {}
+    }
+]
